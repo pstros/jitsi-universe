@@ -187,102 +187,102 @@
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>bccontrib</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20150723.000945-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>fmj</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20151013.181252-6</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>ice4j</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20151112.125641-13</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jicoco</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20151019.203634-7</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-android-osgi</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20150723.002702-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-configuration</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181638-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-contactlist</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181643-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-credentialsstorage</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181643-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-dnsservice</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181644-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-fileaccess</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181644-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-lgpl-dependencies</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20150723.002855-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-libjitsi</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181644-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-netaddr</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181645-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-packetlogging</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20151104.171808-2</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-protocol</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181642-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-protocol-jabber</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150817.143159-3</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-protocol-media</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181646-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-resourcemanager</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181652-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-ui-service</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181654-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>jitsi-util</artifactId>
-        <version>${jitsi.version}</version>
+        <version>2.9-20150723.181654-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
@@ -292,12 +292,17 @@
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>libjitsi</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-20151116.201133-28</version>
+      </dependency>
+      <dependency>
+        <groupId>${project.groupId}</groupId>
+        <artifactId>libjitsi-protocol</artifactId>
+        <version>1.0-20151020.191309-4</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
         <artifactId>newrelic-api-stub</artifactId>
-        <version>3.21.0-SNAPSHOT</version>
+        <version>3.21.0-20151103.220245-1</version>
       </dependency>
       <dependency>
         <groupId>${project.groupId}</groupId>
